@@ -1,0 +1,2 @@
+accesmodifier.iniNtah
+accesmodifier.IniJugaClass
